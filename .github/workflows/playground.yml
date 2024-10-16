@@ -10,3 +10,6 @@ jobs:
     steps:
       - name: Execta echo 
         run: echo "Hello World!"
+      - name: Execta echo 
+        run: pwd
+        
