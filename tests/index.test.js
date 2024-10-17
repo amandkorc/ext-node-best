@@ -2,6 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 describe('numeroPorExtenso', () => {
     test('deve retornar o número por extenso corretamente', () => {
-        expect(eext(0)).toBe('zero');
+        expect(eext(1)).toBe('zero');
     });
 });
